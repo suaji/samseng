@@ -5,7 +5,7 @@
       "name": "TV1",
       "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1",
       "icon": "tv1",
-      "iconUrl": "https://raw.githubusercontent.com/yourusername/ajietv-icons/main/tv1.png",
+      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m1.png",
       "enabled": true
     },
     {
@@ -13,7 +13,7 @@
       "name": "TV2",
       "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2",
       "icon": "tv2",
-      "iconUrl": "https://raw.githubusercontent.com/yourusername/ajietv-icons/main/tv2.png",
+      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m2.png",
       "enabled": true
     },
     {
@@ -21,7 +21,7 @@
       "name": "TV6",
       "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6",
       "icon": "tv6",
-      "iconUrl": "https://raw.githubusercontent.com/yourusername/ajietv-icons/main/tv6.png",
+      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m6.png",
       "enabled": true
     },
     {
@@ -29,7 +29,7 @@
       "name": "OKEY",
       "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3",
       "icon": "okey",
-      "iconUrl": "https://raw.githubusercontent.com/yourusername/ajietv-icons/main/okey.png",
+      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/mokey.png",
       "enabled": true
     },
     {
@@ -37,7 +37,7 @@
       "name": "SUKAN",
       "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4",
       "icon": "sukan",
-      "iconUrl": "https://raw.githubusercontent.com/yourusername/ajietv-icons/main/sukan.png",
+      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/msukan.png",
       "enabled": true
     },
     {
@@ -45,7 +45,7 @@
       "name": "BERITA",
       "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5",
       "icon": "berita",
-      "iconUrl": "https://raw.githubusercontent.com/yourusername/ajietv-icons/main/berita.png",
+      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/mberita.png",
       "enabled": true
     },
     {
@@ -53,39 +53,39 @@
       "name": "TV3",
       "url": "https://get.perfecttv.net/get_tonton_live.m3u8?episode_id=6420323&username=perfecttv&password=perfecttv|user-agent=Mozilla/5.0",
       "icon": "tv3",
-      "iconUrl": "https://raw.githubusercontent.com/yourusername/ajietv-icons/main/tv3.png",
+      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m3.png",
       "enabled": true
     },
     {
       "id": 8,
       "name": "RIA",
-      "url": "https://example.com/ria.m3u8",
+      "url": "https://example.com/xia.m3u8",
       "icon": "ria",
-      "iconUrl": "https://raw.githubusercontent.com/yourusername/ajietv-icons/main/ria.png",
+      "iconUrl": "https://raw.githubusercontent.com/yourusername/ajietv-icons/main/xia.png",
       "enabled": false
     },
     {
       "id": 9,
       "name": "PRIMA",
-      "url": "https://example.com/prima.m3u8",
+      "url": "https://example.com/xrima.m3u8",
       "icon": "prima",
-      "iconUrl": "https://raw.githubusercontent.com/yourusername/ajietv-icons/main/prima.png",
+      "iconUrl": "https://raw.githubusercontent.com/yourusername/ajietv-icons/main/xrima.png",
       "enabled": false
     },
     {
       "id": 10,
       "name": "ARENA",
-      "url": "https://example.com/arena.m3u8",
+      "url": "https://example.com/xrena.m3u8",
       "icon": "arena",
-      "iconUrl": "https://raw.githubusercontent.com/yourusername/ajietv-icons/main/arena.png",
+      "iconUrl": "https://raw.githubusercontent.com/yourusername/ajietv-icons/main/xrena.png",
       "enabled": false
     },
     {
       "id": 11,
       "name": "SPORTS",
-      "url": "https://example.com/sports.m3u8",
+      "url": "https://example.com/xports.m3u8",
       "icon": "sports",
-      "iconUrl": "https://raw.githubusercontent.com/ajietv-icons/main/sports.png",
+      "iconUrl": "https://raw.githubusercontent.com/ajietv-icons/main/xports.png",
       "enabled": false
     },
     {
