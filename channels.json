@@ -1,0 +1,116 @@
+{
+  "channels": [
+    {
+      "id": 1,
+      "name": "TV1",
+      "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1",
+      "icon": "tv1",
+      "iconUrl": "https://raw.githubusercontent.com/yourusername/ajietv-icons/main/tv1.png",
+      "enabled": true
+    },
+    {
+      "id": 2,
+      "name": "TV2",
+      "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2",
+      "icon": "tv2",
+      "iconUrl": "https://raw.githubusercontent.com/yourusername/ajietv-icons/main/tv2.png",
+      "enabled": true
+    },
+    {
+      "id": 3,
+      "name": "TV6",
+      "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6",
+      "icon": "tv6",
+      "iconUrl": "https://raw.githubusercontent.com/yourusername/ajietv-icons/main/tv6.png",
+      "enabled": true
+    },
+    {
+      "id": 4,
+      "name": "OKEY",
+      "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3",
+      "icon": "okey",
+      "iconUrl": "https://raw.githubusercontent.com/yourusername/ajietv-icons/main/okey.png",
+      "enabled": true
+    },
+    {
+      "id": 5,
+      "name": "SUKAN",
+      "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4",
+      "icon": "sukan",
+      "iconUrl": "https://raw.githubusercontent.com/yourusername/ajietv-icons/main/sukan.png",
+      "enabled": true
+    },
+    {
+      "id": 6,
+      "name": "BERITA",
+      "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5",
+      "icon": "berita",
+      "iconUrl": "https://raw.githubusercontent.com/yourusername/ajietv-icons/main/berita.png",
+      "enabled": true
+    },
+    {
+      "id": 7,
+      "name": "TV3",
+      "url": "https://get.perfecttv.net/get_tonton_live.m3u8?episode_id=6420323&username=perfecttv&password=perfecttv|user-agent=Mozilla/5.0",
+      "icon": "tv3",
+      "iconUrl": "https://raw.githubusercontent.com/yourusername/ajietv-icons/main/tv3.png",
+      "enabled": true
+    },
+    {
+      "id": 8,
+      "name": "RIA",
+      "url": "https://example.com/ria.m3u8",
+      "icon": "ria",
+      "iconUrl": "https://raw.githubusercontent.com/yourusername/ajietv-icons/main/ria.png",
+      "enabled": false
+    },
+    {
+      "id": 9,
+      "name": "PRIMA",
+      "url": "https://example.com/prima.m3u8",
+      "icon": "prima",
+      "iconUrl": "https://raw.githubusercontent.com/yourusername/ajietv-icons/main/prima.png",
+      "enabled": false
+    },
+    {
+      "id": 10,
+      "name": "ARENA",
+      "url": "https://example.com/arena.m3u8",
+      "icon": "arena",
+      "iconUrl": "https://raw.githubusercontent.com/yourusername/ajietv-icons/main/arena.png",
+      "enabled": false
+    },
+    {
+      "id": 11,
+      "name": "SPORTS",
+      "url": "https://example.com/sports.m3u8",
+      "icon": "sports",
+      "iconUrl": "https://raw.githubusercontent.com/ajietv-icons/main/sports.png",
+      "enabled": false
+    },
+    {
+      "id": 12,
+      "name": "CHANNEL BARU",
+      "url": "https://example.com/newchannel.m3u8",
+      "icon": "newchannel",
+      "iconUrl": "https://raw.githubusercontent.com/yourusername/ajietv-icons/main/newchannel.png",
+      "enabled": true
+    },
+    {
+      "id": 13,
+      "name": "DRAMA",
+      "url": "https://example.com/drama.m3u8",
+      "icon": "drama",
+      "iconUrl": "https://raw.githubusercontent.com/yourusername/ajietv-icons/main/drama.png",
+      "enabled": true
+    },
+    {
+      "id": 14,
+      "name": "DIDIK",
+      "url": "https://example.com/didik.m3u8",
+      "icon": "didik",
+      "iconUrl": "https://raw.githubusercontent.com/yourusername/ajietv-icons/main/didik.png",
+      "enabled": true
+    }
+  ]
+}
