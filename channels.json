@@ -13,7 +13,7 @@
       "name": "TV2",
       "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2",
       "icon": "tv2",
-      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/",
+      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m2.jpg",
       "enabled": true
     },
     {
@@ -21,7 +21,7 @@
       "name": "TV6",
       "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6",
       "icon": "tv6",
-      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/",
+      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m6.jpg",
       "enabled": true
     },
     {
@@ -29,7 +29,7 @@
       "name": "OKEY",
       "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3",
       "icon": "okey",
-      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/",
+      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/mokey.jpg",
       "enabled": true
     },
     {
@@ -37,7 +37,7 @@
       "name": "SUKAN",
       "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4",
       "icon": "sukan",
-      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/",
+      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/msukan.jpg",
       "enabled": true
     },
     {
@@ -45,7 +45,7 @@
       "name": "BERITA",
       "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5",
       "icon": "berita",
-      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/",
+      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/mberita.png",
       "enabled": true
     },
     {
@@ -53,7 +53,7 @@
       "name": "TV3",
       "url": "https://get.perfecttv.net/get_tonton_live.m3u8?episode_id=6420323&username=perfecttv&password=perfecttv|user-agent=Mozilla/5.0",
       "icon": "tv3",
-      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/",
+      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m3.jpg",
       "enabled": true
     },
     {
@@ -61,39 +61,39 @@
       "name": "RIA",
       "url": "https://example.com/xia.m3u8",
       "icon": "ria",
-      "iconUrl": "https://raw.githubusercontent.com/yourusername/ajietv-icons/main/xia.png",
-      "enabled": false
+      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m6.jpg",
+      "enabled": true
     },
     {
       "id": 9,
       "name": "PRIMA",
       "url": "https://example.com/xrima.m3u8",
       "icon": "prima",
-      "iconUrl": "https://raw.githubusercontent.com/yourusername/ajietv-icons/main/xrima.png",
-      "enabled": false
+      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m6.jpg",
+      "enabled": true
     },
     {
       "id": 10,
       "name": "ARENA",
       "url": "https://example.com/xrena.m3u8",
       "icon": "arena",
-      "iconUrl": "https://raw.githubusercontent.com/yourusername/ajietv-icons/main/xrena.png",
-      "enabled": false
+      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m6.jpg",
+      "enabled": true
     },
     {
       "id": 11,
       "name": "SPORTS",
       "url": "https://example.com/xports.m3u8",
       "icon": "sports",
-      "iconUrl": "https://raw.githubusercontent.com/ajietv-icons/main/xports.png",
-      "enabled": false
+      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m6.jpg",
+      "enabled": true
     },
     {
       "id": 12,
       "name": "CHANNEL BARU",
       "url": "https://example.com/newchannel.m3u8",
       "icon": "newchannel",
-      "iconUrl": "https://raw.githubusercontent.com/yourusername/ajietv-icons/main/newchannel.png",
+      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m6.jpg",
       "enabled": true
     },
     {
@@ -101,7 +101,7 @@
       "name": "DRAMA",
       "url": "https://example.com/drama.m3u8",
       "icon": "drama",
-      "iconUrl": "https://raw.githubusercontent.com/yourusername/ajietv-icons/main/drama.png",
+      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m6.jpg",
       "enabled": true
     },
     {
@@ -109,7 +109,7 @@
       "name": "DIDIK",
       "url": "https://example.com/didik.m3u8",
       "icon": "didik",
-      "iconUrl": "https://raw.githubusercontent.com/yourusername/ajietv-icons/main/didik.png",
+      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m6.jpg",
       "enabled": true
     }
   ]
