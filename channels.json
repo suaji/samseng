@@ -58,34 +58,34 @@
     },
     {
       "id": 8,
-      "name": "RIA",
+      "name": "TV8",
       "url": "https://example.com/xia.m3u8",
       "icon": "ria",
-      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m6.jpg",
+      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m8.jpg",
       "enabled": true
     },
     {
       "id": 9,
-      "name": "PRIMA",
+      "name": "TV9",
       "url": "https://example.com/xrima.m3u8",
       "icon": "prima",
-      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m6.jpg",
+      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m9.jpg",
       "enabled": true
     },
     {
       "id": 10,
-      "name": "ARENA",
+      "name": "DRAMA SANGAT",
       "url": "https://example.com/xrena.m3u8",
       "icon": "arena",
-      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m6.jpg",
+      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/mdrama.jpg",
       "enabled": true
     },
     {
       "id": 11,
-      "name": "SPORTS",
+      "name": "DIDIK",
       "url": "https://example.com/xports.m3u8",
       "icon": "sports",
-      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m6.jpg",
+      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/mdidik.jpg",
       "enabled": true
     },
     {
@@ -93,24 +93,24 @@
       "name": "CHANNEL BARU",
       "url": "https://example.com/newchannel.m3u8",
       "icon": "newchannel",
-      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m6.jpg",
-      "enabled": true
+      "iconUrl": "",
+      "enabled": false
     },
     {
       "id": 13,
       "name": "DRAMA",
       "url": "https://example.com/drama.m3u8",
       "icon": "drama",
-      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m6.jpg",
-      "enabled": true
+      "iconUrl": "",
+      "enabled": false
     },
     {
       "id": 14,
       "name": "DIDIK",
       "url": "https://example.com/didik.m3u8",
       "icon": "didik",
-      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m6.jpg",
-      "enabled": true
+      "iconUrl": "",
+      "enabled": false
     }
   ]
 }
