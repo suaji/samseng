@@ -1,3 +1,6 @@
+#!/bin/bash
+# install-owncloud-lite.sh — versi PHP 8.4 untuk Raspberry Pi (Trixie)
+
 # Semak root
 if [ "$EUID" -ne 0 ]; then
   echo "⚠️  Jalankan sebagai root: sudo bash install-owncloud-lite.sh"
@@ -5,20 +8,31 @@ if [ "$EUID" -ne 0 ]; then
 fi
 
 echo "📦 Pasang komponen utama..."
-apt install -y nginx php8.2 php8.2-fpm php8.2-xml php8.2-mbstring php8.2-zip php8.2-gd php8.2-curl php8.2-intl php8.2-bcmath php8.2-sqlite3 unzip wget
+apt update -y
+apt install -y nginx php8.4 php8.4-fpm php8.4-cli php8.4-common \
+  php8.4-xml php8.4-mbstring php8.4-zip php8.4-gd php8.4-curl \
+  php8.4-intl php8.4-bcmath php8.4-sqlite3 unzip wget
 
 echo "📁 Muat turun OwnCloud..."
 cd /tmp
 wget https://download.owncloud.org/community/owncloud-complete-20210721.zip -O owncloud.zip
-unzip owncloud.zip
-mv owncloud /var/www/html/
+if unzip -tq owncloud.zip >/dev/null 2>&1; then
+  unzip -oq owncloud.zip
+  mv owncloud /var/www/html/
+else
+  echo "❌ Gagal unzip owncloud.zip. Semak sambungan Internet atau pautan muat turun."
+  exit 1
+fi
+
 chown -R www-data:www-data /var/www/html/owncloud
 chmod -R 755 /var/www/html/owncloud
 
 echo "⚙️  Konfigurasi PHP-FPM..."
-sed -i 's|^;cgi.fix_pathinfo=.*|cgi.fix_pathinfo=0|' /etc/php/8.2/fpm/php.ini
-systemctl enable php8.2-fpm
-systemctl restart php8.2-fpm
+if [ -f /etc/php/8.4/fpm/php.ini ]; then
+  sed -i 's|^;*cgi.fix_pathinfo=.*|cgi.fix_pathinfo=0|' /etc/php/8.4/fpm/php.ini
+fi
+systemctl enable php8.4-fpm
+systemctl restart php8.4-fpm
 
 echo "🧾 Konfigurasi Nginx..."
 cat <<'EOF' > /etc/nginx/sites-available/owncloud
@@ -40,7 +54,7 @@ server {
 
     location ~ \.php$ {
         include snippets/fastcgi-php.conf;
-        fastcgi_pass unix:/run/php/php8.2-fpm.sock;
+        fastcgi_pass unix:/run/php/php8.4-fpm.sock;
         fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
         include fastcgi_params;
     }
@@ -51,9 +65,10 @@ server {
 }
 EOF
 
-ln -s /etc/nginx/sites-available/owncloud /etc/nginx/sites-enabled/
-rm /etc/nginx/sites-enabled/default 2>/dev/null
+ln -sf /etc/nginx/sites-available/owncloud /etc/nginx/sites-enabled/owncloud
+rm -f /etc/nginx/sites-enabled/default
 
+echo "🔍 Semak konfigurasi Nginx..."
 nginx -t && systemctl restart nginx
 
 echo "✅ Siap dipasang!"
