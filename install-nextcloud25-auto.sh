@@ -8,9 +8,9 @@ if [ "$EUID" -ne 0 ]; then
   exit 1
 fi
 
-echo "🧠 Tambah swapfile (1024MB)..."
+echo "🧠 Tambah swapfile (512MB)..."
 apt install -y dphys-swapfile >/dev/null 2>&1
-sed -i 's/^CONF_SWAPSIZE=.*/CONF_SWAPSIZE=1024/' /etc/dphys-swapfile
+sed -i 's/^CONF_SWAPSIZE=.*/CONF_SWAPSIZE=512/' /etc/dphys-swapfile
 systemctl restart dphys-swapfile
 
 echo "🛠️ Kemas kini sistem minimum..."
