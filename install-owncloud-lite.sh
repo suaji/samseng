@@ -15,7 +15,7 @@ apt install -y nginx php8.4 php8.4-fpm php8.4-cli php8.4-common \
 
 echo "📁 Muat turun OwnCloud..."
 cd /tmp
-wget https://download.owncloud.org/community/owncloud-complete-20210721.zip -O owncloud.zip
+wget https://download.owncloud.com/server/stable/owncloud-10.10.0.zip -O owncloud.zip
 if unzip -tq owncloud.zip >/dev/null 2>&1; then
   unzip -oq owncloud.zip
   mv owncloud /var/www/html/
