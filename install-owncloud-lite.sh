@@ -8,7 +8,6 @@ if [ "$EUID" -ne 0 ]; then
 fi
 
 echo "📦 Pasang komponen utama..."
-apt update -y
 apt install -y nginx php8.4 php8.4-fpm php8.4-cli php8.4-common \
   php8.4-xml php8.4-mbstring php8.4-zip php8.4-gd php8.4-curl \
   php8.4-intl php8.4-bcmath php8.4-sqlite3 unzip wget
