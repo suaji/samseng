@@ -17,6 +17,7 @@ sudo chown -R www-data:www-data owncloud
 sudo chmod -R 755 owncloud
 
 # Create data folder
+sudo mount /dev/sda1 /media/usb
 sudo mkdir -p /media/usb/owncloud_data
 sudo chown -R www-data:www-data /media/usb/owncloud_data
 
