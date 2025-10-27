@@ -12,7 +12,7 @@ sudo service lighttpd restart
 # Download OwnCloud 10.11
 cd /var/www/html
 sudo wget https://download.owncloud.com/server/stable/owncloud-10.10.0.zip
-sudo unzip owncloud-10.11.0.zip
+sudo unzip owncloud-10.10.0.zip
 sudo chown -R www-data:www-data owncloud
 sudo chmod -R 755 owncloud
 
