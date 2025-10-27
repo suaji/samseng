@@ -51,9 +51,9 @@ sudo sed -i 's/^max_execution_time = .*/max_execution_time = 60/' /etc/php/7.3/f
 sudo systemctl restart php7.3-fpm
 
 echo "----------------------------------------"
-echo "⬇️ Downloading Nextcloud 21.0.9..."
+echo "⬇️ Downloading Nextcloud 20.0.14..."
 cd /var/www/html
-sudo wget -q https://download.nextcloud.com/server/releases/nextcloud-21.0.9.zip -O nextcloud.zip
+sudo wget -q https://download.nextcloud.com/server/releases/nextcloud-20.0.14.zip -O nextcloud.zip
 sudo unzip -q nextcloud.zip
 sudo chown -R www-data:www-data nextcloud
 sudo chmod -R 755 nextcloud
