@@ -2,7 +2,7 @@
 # --- OwnCloud 10.11 installer for Raspberry Pi 1 (512MB) ---
 
 sudo apt update
-sudo apt install -y lighttpd php7.3 php7.3-gd php7.3-sqlite3 php7.3-zip php7.3-xml php7.3-mbstring php7.3-curl unzip wget
+sudo apt install -y zram-tools lighttpd php7.3 php7.3-gd php7.3-sqlite3 php7.3-zip php7.3-xml php7.3-mbstring php7.3-curl unzip wget
 
 # Enable PHP
 sudo lighty-enable-mod fastcgi
