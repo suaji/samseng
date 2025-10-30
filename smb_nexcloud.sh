@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Add trusted domain
+# sudo nano /var/snap/nextcloud/current/nextcloud/config/config.php
+
 # Pasang Samba jika belum ada
 sudo apt update
 sudo apt install -y samba
