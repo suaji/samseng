@@ -61,64 +61,24 @@
       "name": "TV8",
       "url": "http://cdn6.163189.xyz/163189/8tv",
       "icon": "ria",
-      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m8.jpg",
+      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m8.png",
       "enabled": true
     },
     {
       "id": 9,
       "name": "TV9",
-      "url": "https://example.com/xrima.m3u8",
+      "url": "https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8",
       "icon": "prima",
-      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m9.jpg",
+      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m9.png",
       "enabled": true
-    },
-    {
-      "id": 10,
-      "name": "DRAMA SANGAT",
-      "url": "https://example.com/xrena.m3u8",
-      "icon": "arena",
-      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/mdrama.jpg",
-      "enabled": true
-    },
-    {
-      "id": 11,
-      "name": "DIDIK",
-      "url": "https://example.com/xports.m3u8",
-      "icon": "sports",
-      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/mdidik.jpg",
-      "enabled": true
-    },
-    {
-      "id": 12,
-      "name": "CHANNEL BARU",
-      "url": "https://example.com/newchannel.m3u8",
-      "icon": "newchannel",
-      "iconUrl": "",
-      "enabled": false
-    },
-    {
-      "id": 13,
-      "name": "DRAMA",
-      "url": "https://example.com/drama.m3u8",
-      "icon": "drama",
-      "iconUrl": "",
-      "enabled": false
-    },
-    {
-      "id": 14,
-      "name": "DIDIK",
-      "url": "https://iptv-org.github.io/iptv/index.m3u",
-      "icon": "didik",
-      "iconUrl": "",
-      "enabled": false
     },
 	{
-      "id": 15,
+      "id": 10,
       "name": "&Flix",
       "url": "https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8",
       "icon": "https://images.seeklogo.com/logo-png/43/3/flix-hd-logo-png_seeklogo-432038.png",
-      "iconUrl": "",
-      "enabled": false
+      "iconUrl": "https://iptv-org.github.io/iptv/index.m3u",
+      "enabled": true
     }
   ]
 }
