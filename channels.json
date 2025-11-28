@@ -59,7 +59,7 @@
     {
       "id": 8,
       "name": "TV8",
-      "url": "https://example.com/xia.m3u8",
+      "url": "http://cdn6.163189.xyz/163189/8tv",
       "icon": "ria",
       "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m8.jpg",
       "enabled": true
@@ -107,10 +107,20 @@
     {
       "id": 14,
       "name": "DIDIK",
-      "url": "https://example.com/didik.m3u8",
+      "url": "https://iptv-org.github.io/iptv/index.m3u",
       "icon": "didik",
+      "iconUrl": "",
+      "enabled": false
+    },
+	{
+      "id": 15,
+      "name": "&Flix",
+      "url": "https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8",
+      "icon": "https://images.seeklogo.com/logo-png/43/3/flix-hd-logo-png_seeklogo-432038.png",
       "iconUrl": "",
       "enabled": false
     }
   ]
 }
+
+
