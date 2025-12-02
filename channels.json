@@ -48,8 +48,66 @@
       "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/mberita.png",
       "enabled": true
     },
-    {
+	
+	{
       "id": 7,
+      "name": "Roll RTM",
+      "url": "https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8",
+      "icon": "roll",
+      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/mroll.jpg",
+      "enabled": true
+    },
+	{
+      "id": 8,
+      "name": "Snap RTM",
+      "url": "https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8",
+      "icon": "snap",
+      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/msnap.jpg",
+      "enabled": true
+    },
+	{
+      "id": 9,
+      "name": "Apetito RTM",
+      "url": "https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8",
+      "icon": "apetito",
+      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/mapetito.jpg",
+      "enabled": true
+    },
+	{
+      "id": 10,
+      "name": "Lead RTM",
+      "url": "https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8",
+      "icon": "lead",
+      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/mlead.jpg",
+      "enabled": true
+    },
+	{
+      "id": 11,
+      "name": "Aura RTM",
+      "url": "https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8",
+      "icon": "aura",
+      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/maura.jpg",
+      "enabled": true
+    },
+	{
+      "id": 12,
+      "name": "Fitrah RTM",
+      "url": "https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8",
+      "icon": "fitrah",
+      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/mfitrah.jpg",
+      "enabled": true
+    },
+	{
+      "id": 13,
+      "name": "JR. RTM",
+      "url": "https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8",
+      "icon": "junior",
+      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/mjunior.jpg",
+      "enabled": true
+    },
+	
+    {
+      "id": 14,
       "name": "TV3",
       "url": "https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8",
       "icon": "tv3",
@@ -57,38 +115,36 @@
       "enabled": true
     },
     {
-      "id": 8,
+      "id": 15,
       "name": "TV8",
       "url": "http://cdn6.163189.xyz/163189/8tv",
-      "icon": "ria",
+      "icon": "tv8",
       "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m8.png",
       "enabled": true
     },
     {
-      "id": 9,
+      "id": 16,
       "name": "TV9",
       "url": "https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8",
-      "icon": "prima",
+      "icon": "tv9",
       "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m9.png",
       "enabled": true
     },
 		{
-      "id": 10,
+      "id": 17,
       "name": "nFlix HD",
       "url": "https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8",
-      "icon": "https://images.seeklogo.com/logo-png/43/3/flix-hd-logo-png_seeklogo-432038.png",
-      "iconUrl": "https://iptv-org.github.io/iptv/index.m3u",
+      "icon": "nflix",
+      "iconUrl": "https://images.seeklogo.com/logo-png/43/3/flix-hd-logo-png_seeklogo-432038.png",
       "enabled": true
     },
 	{
-      "id": 11,
+      "id": 18,
       "name": "nFlix",
       "url": "https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8",
-      "icon": "https://images.seeklogo.com/logo-png/43/3/flix-hd-logo-png_seeklogo-432038.png",
-      "iconUrl": "https://iptv-org.github.io/iptv/index.m3u",
-      "enabled": true
+      "icon": "https://iptv-org.github.io/iptv/index.m3u",
+      "iconUrl": "https://images.seeklogo.com/logo-png/43/3/flix-hd-logo-png_seeklogo-432038.png",
+      "enabled": false
     }
   ]
 }
-
-
