@@ -130,12 +130,12 @@
       "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m9.png",
       "enabled": true
     },
-		{
+	{
       "id": 17,
-      "name": "nFlix HD",
-      "url": "https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8",
-      "icon": "nflix",
-      "iconUrl": "https://images.seeklogo.com/logo-png/43/3/flix-hd-logo-png_seeklogo-432038.png",
+      "name": "zAwani",
+      "url": "https://live2.eu-north-1a.cf.dmcdn.net/sec2(5jd-TRjjRiE1CQgUb95hDCqRXCa1TmiAFSpoSziROCujdXE49GI4oFENHerEXWIaOknIhAU7cYBwpdpSfLBZ3aMeShvHJ2zbpUz1ebAWaq1lBFhQbYYIga-OyWTbQKMy)/cloud/3/x8dbnq6/s/live-480.m3u8",
+      "icon": "awatni",
+      "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/awatni.png",
       "enabled": true
     },
 	{
