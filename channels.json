@@ -105,7 +105,6 @@
       "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/mjunior.jpg",
       "enabled": true
     },
-	
     {
       "id": 14,
       "name": "TV3",
@@ -156,22 +155,6 @@
     },
 	{
       "id": 20,
-      "name": "",
-      "url": "",
-      "icon": "",
-      "iconUrl": "",
-      "enabled": true
-    },
-	{
-      "id": 21,
-      "name": "",
-      "url": "",
-      "icon": "",
-      "iconUrl": "",
-      "enabled": false
-    },
-	{
-      "id": 22,
       "name": "sumberTV",
       "url": "https://iptv-org.github.io/iptv/index.m3u",
       "icon": "https://iptv-org.github.io/?q=Malaysia",
