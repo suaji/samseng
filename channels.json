@@ -140,9 +140,41 @@
     },
 	{
       "id": 18,
-      "name": "nFlix",
+      "name": "nFlix HD",
+      "url": "http://66.102.120.18:8000/play/a022/index.m3u8",
+      "icon": "nFlixHD",
+      "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LOGO_HD/LOGO_HD_image.png",
+      "enabled": true
+    },
+	{
+      "id": 19,
+      "name": "nFlix SD",
       "url": "https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8",
-      "icon": "https://iptv-org.github.io/iptv/index.m3u",
+      "icon": "nFlixSD",
+      "iconUrl": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LOGO_HD/LOGO_HD_image.png",
+      "enabled": true
+    },
+	{
+      "id": 20,
+      "name": "",
+      "url": "",
+      "icon": "",
+      "iconUrl": "",
+      "enabled": true
+    }
+	{
+      "id": 21,
+      "name": "",
+      "url": "",
+      "icon": "",
+      "iconUrl": "",
+      "enabled": false
+    }
+	{
+      "id": 22,
+      "name": "sumberTV",
+      "url": "https://iptv-org.github.io/iptv/index.m3u",
+      "icon": "https://iptv-org.github.io/?q=Malaysia",
       "iconUrl": "https://images.seeklogo.com/logo-png/43/3/flix-hd-logo-png_seeklogo-432038.png",
       "enabled": false
     }
