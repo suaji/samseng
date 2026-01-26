@@ -2,168 +2,168 @@
   "channels": [
     {
       "id": 1,
-      "name": "zTV1",
+      "name": ".TV1",
       "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1",
-      "icon": "ztv1",
+      "icon": ".tv1",
       "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m1.png",
       "enabled": true
     },
     {
       "id": 2,
-      "name": "zTV2",
+      "name": ".TV2",
       "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2",
-      "icon": "ztv2",
+      "icon": ".tv2",
       "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m2.jpg",
       "enabled": true
     },
     {
       "id": 3,
-      "name": "zTV6",
+      "name": ".TV6",
       "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6",
-      "icon": "ztv6",
+      "icon": ".tv6",
       "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m6.jpg",
       "enabled": true
     },
     {
       "id": 4,
-      "name": "zOKEY",
+      "name": ".OKEY",
       "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3",
-      "icon": "zokey",
+      "icon": ".okey",
       "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/mokey.jpg",
       "enabled": true
     },
     {
       "id": 5,
-      "name": "zSUKAN",
+      "name": ".SUKAN",
       "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4",
-      "icon": "zsukan",
+      "icon": ".sukan",
       "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/msukan.jpg",
       "enabled": true
     },
     {
       "id": 6,
-      "name": "zBERITA",
+      "name": ".BERITA",
       "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5",
-      "icon": "zberita",
+      "icon": ".berita",
       "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/mberita.png",
       "enabled": true
     },
 	
 	{
       "id": 7,
-      "name": "zRollRTM",
+      "name": ".RollRTM",
       "url": "https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8",
-      "icon": "zroll",
+      "icon": ".roll",
       "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/mroll.jpg",
       "enabled": true
     },
 	{
       "id": 8,
-      "name": "zSnapRTM",
+      "name": ".SnapRTM",
       "url": "https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8",
-      "icon": "zsnap",
+      "icon": ".snap",
       "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/msnap.jpg",
       "enabled": true
     },
 	{
       "id": 9,
-      "name": "zApetitoRTM",
+      "name": ".ApetitoRTM",
       "url": "https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8",
-      "icon": "zapetito",
+      "icon": ".apetito",
       "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/mapetito.jpg",
       "enabled": true
     },
 	{
       "id": 10,
-      "name": "zLeadRTM",
+      "name": ".LeadRTM",
       "url": "https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8",
-      "icon": "zlead",
+      "icon": ".lead",
       "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/mlead.jpg",
       "enabled": true
     },
 	{
       "id": 11,
-      "name": "zAuraRTM",
+      "name": ".AuraRTM",
       "url": "https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8",
-      "icon": "zaura",
+      "icon": ".aura",
       "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/maura.jpg",
       "enabled": true
     },
 	{
       "id": 12,
-      "name": "zFitrahRTM",
+      "name": ".FitrahRTM",
       "url": "https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8",
-      "icon": "zfitrah",
+      "icon": ".fitrah",
       "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/mfitrah.jpg",
       "enabled": true
     },
 	{
       "id": 13,
-      "name": "zJR.RTM",
+      "name": ".JR.RTM",
       "url": "https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8",
-      "icon": "zjunior",
+      "icon": ".junior",
       "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/mjunior.jpg",
       "enabled": true
     },
     {
       "id": 14,
-      "name": "zTV3",
+      "name": ".TV3",
       "url": "https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8",
-      "icon": "ztv3",
+      "icon": ".tv3",
       "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m3.jpg",
       "enabled": true
     },
     {
       "id": 15,
-      "name": "zTV8",
+      "name": ".TV8",
       "url": "http://cdn6.163189.xyz/163189/8tv",
-      "icon": "ztv8",
+      "icon": ".tv8",
       "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m8.png",
       "enabled": true
     },
     {
       "id": 16,
-      "name": "zTV9",
+      "name": ".TV9",
       "url": "https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8",
-      "icon": "ztv9",
+      "icon": ".tv9",
       "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m9.png",
       "enabled": true
     },
 	{
       "id": 17,
-      "name": "zAwani",
+      "name": ".Awani",
       "url": "https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8",
-      "icon": "awatni",
+      "icon": ".awatni",
       "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/awatni.png",
       "enabled": true
     },
 	{
       "id": 18,
-      "name": "zDramaHebat",
+      "name": ".DramaHebat",
       "url": "https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd",
-      "icon": "zDramaHebat",
+      "icon": ".DramaHebat",
       "iconUrl": "https://telegra.ph/file/0c4afb9624d691ef282a4.png",
       "enabled": true
     },
 	{
       "id": 19,
-      "name": "zHBO",
+      "name": ".HBO",
       "url": "https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd",
-      "icon": "zHBO",
+      "icon": ".HBO",
       "iconUrl": "https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c6856b6088c3016b87d64b970b53/e863ef88db1d4856ab9fd34080f5f5de.jpg",
       "enabled": true
     },
 	{
       "id": 20,
-      "name": "sumberTV1",
+      "name": ".sumberTV1",
       "url": "https://web.anbox118.dpdns.org/",
-      "icon": "sumberTV1",
+      "icon": ".sumberTV1",
       "iconUrl": "https://static.vecteezy.com/system/resources/thumbnails/023/456/818/small/red-live-button-icon-for-tv-and-streaming-on-a-transparent-background-free-png.png",
       "enabled": false
     },
 	{
       "id": 21,
-      "name": "sumberTV2",
+      "name": ".sumberTV2",
       "url": "https://iptv-org.github.io/iptv/index.m3u",
       "icon": "sumberTV2",
       "iconUrl": "https://images.seeklogo.com/logo-png/43/3/flix-hd-logo-png_seeklogo-432038.png",
