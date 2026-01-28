@@ -127,7 +127,7 @@
       "url": "https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV9)/master.mpd",
       "icon": ".tv9",
       "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m9.png",
-      "enabled": true
+      "enabled": false
     },
 	{
       "id": 17,
