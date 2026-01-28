@@ -108,7 +108,7 @@
     {
       "id": 14,
       "name": ".TV3",
-      "url": "https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV3)/master.mpd",
+      "url": "https://livesim.dashif.org/livesim/chunkdur_1/ato_7/testpic4_8s/Manifest.mpd",
       "icon": ".tv3",
       "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m3.jpg",
       "enabled": true
@@ -116,7 +116,7 @@
     {
       "id": 15,
       "name": ".TV8",
-      "url": "https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(8TV)/master.mpd",
+      "url": "https://bitmovin-a.akamaihd.net/content/MI201109210084_1/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd",
       "icon": ".tv8",
       "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m8.png",
       "enabled": true
