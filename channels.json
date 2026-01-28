@@ -108,7 +108,7 @@
     {
       "id": 14,
       "name": ".TV3",
-      "url": "https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8",
+      "url": "https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV3)/master.mpd",
       "icon": ".tv3",
       "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m3.jpg",
       "enabled": true
@@ -116,7 +116,7 @@
     {
       "id": 15,
       "name": ".TV8",
-      "url": "http://cdn6.163189.xyz/163189/8tv",
+      "url": "https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(8TV)/master.mpd",
       "icon": ".tv8",
       "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m8.png",
       "enabled": true
@@ -124,7 +124,7 @@
     {
       "id": 16,
       "name": ".TV9",
-      "url": "https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8",
+      "url": "https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV9)/master.mpd",
       "icon": ".tv9",
       "iconUrl": "https://raw.githubusercontent.com/suaji/samseng/refs/heads/main/zamseng/m9.png",
       "enabled": true
